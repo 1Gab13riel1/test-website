@@ -1,0 +1,21 @@
+img {
+	width: 200px;
+	height: 200px;
+}
+
+.red{
+	color: red;
+}
+
+#blue {
+	color: blue;
+}
+
+.right-text{
+	text-align: right;
+	font-size: 5rem;
+}
+
+.right-text:hover{
+	color: green;
+}
